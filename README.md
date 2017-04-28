@@ -10,3 +10,12 @@
 ### Test Preparation
 
 1. [Information System Introduction](https://goo.gl/forms/NmwBBuRsmf7MpxfW2).
+
+### Data Representation and Digital Encoding
+
+1. [Data Representation](https://docs.google.com/presentation/d/1cqXaQl3dQHHmH1SugicevSWkix1ZIIzs49S_FQWwFKw/edit?usp=sharing).
+2. [Digital Encoding](https://docs.google.com/presentation/d/1ki378b5UzbK5TEwSFQotJftzV7IWr3GSDBjtxanNDMI/edit?usp=sharing).
+
+### Test Preparation
+
+1. [Data Representation and Digital Encoding](http://svel.to/nbe).
