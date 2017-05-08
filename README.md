@@ -32,4 +32,4 @@
 
 ### Test Preparation
 
-1. [Digital image](http://svel.to/ncd)
+1. [Digital image](http://svel.to/ndz)
