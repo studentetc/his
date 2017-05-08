@@ -11,6 +11,8 @@
 
 1. [Information System Introduction](https://goo.gl/forms/NmwBBuRsmf7MpxfW2).
 
+---
+
 ### Data Representation and Digital Encoding
 
 1. [Data Representation](https://docs.google.com/presentation/d/1cqXaQl3dQHHmH1SugicevSWkix1ZIIzs49S_FQWwFKw/edit?usp=sharing).
@@ -19,3 +21,15 @@
 ### Test Preparation
 
 1. [Data Representation and Digital Encoding](http://svel.to/nbe).
+
+---
+
+### Digital Image
+
+1. [How internet works](https://docs.google.com/presentation/d/1AkUdTWKUyX8EmoLIYVFFS4eQbvoDCzNs2x2OtCr6BrU/edit?usp=sharing)
+2. [Digital Image](https://docs.google.com/presentation/d/1fNLRy1LrPHHMLv3qCsYkvnEYbeIkhOipiFbsf3TwZjw/edit#slide=id.g1d55465802_0_35)
+3. [Basics of Web Graphic](https://docs.google.com/presentation/d/1Hhpqyqpw3GINCoPtpeRXJvcnEHlk4eJ3yf-pMzR2DKk/edit?usp=sharing)
+
+### Test Preparation
+
+1. [Digital image](http://svel.to/ncd)
