@@ -44,3 +44,14 @@
 ### Test Preparation
 
 1. [DBMS](http://svel.to/ndh)
+
+---
+
+### EHR and CEN/TC 251
+
+1. [Electronic Health Record (EHR)](https://docs.google.com/presentation/d/1WB31CHQ0BD4BYZiSBFbg5PpEEvWoGFabhDg01Ok0sO4/edit?usp=sharing)
+2. [CEN/TC 251](https://docs.google.com/presentation/d/10QF4OPYsFoJv1T2E-JyyBi1JRJJvBs4hp3WJPUryTog/edit?usp=sharing) 
+
+### Test Preparation
+
+1. [EHR and CEN/TC 251](http://svel.to/nec)
