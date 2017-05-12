@@ -55,3 +55,14 @@
 ### Test Preparation
 
 1. [EHR and CEN/TC 251](http://svel.to/nec)
+
+---
+
+### EHR and CEN/TC 251
+
+1. [Introduction to RIS/PACS](https://docs.google.com/presentation/d/1fjrC1ce9ZoYgW9gvxBxOBkWRdfdPdEzqxsxhtPmoG-I/edit?usp=sharing) 
+2. [01_Practice Video - EHR ](https://youtu.be/_k_SbHSu9BQ)
+
+### Test Preparation
+
+1. [Introduction to RIS/PACS](http://svel.to/nf8)
