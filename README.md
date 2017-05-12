@@ -58,7 +58,7 @@
 
 ---
 
-### EHR and CEN/TC 251
+### RIS/PACS
 
 1. [Introduction to RIS/PACS](https://docs.google.com/presentation/d/1fjrC1ce9ZoYgW9gvxBxOBkWRdfdPdEzqxsxhtPmoG-I/edit?usp=sharing) 
 2. [01_Practice Video - EHR ](https://youtu.be/_k_SbHSu9BQ)
