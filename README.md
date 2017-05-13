@@ -39,7 +39,7 @@
 ### Database Managment System
 
 1. [DB, DSMS, RDBMS](https://docs.google.com/presentation/d/1w0DGNXwoIqQ63olsKIU_ok1qF1fa7okArFK-7AFGCsQ/edit?usp=sharing)
-2. [SQL](https://docs.google.com/presentation/d/1OuXDD_fAprMVag0G557oNKLOMff7TTVF_ENuiqDpm1c/edit) 
+2. [SQL](https://docs.google.com/presentation/d/1OuXDD_fAprMVag0G557oNKLOMff7TTVF_ENuiqDpm1c/edit?usp=sharing) 
 
 ### Test Preparation
 
