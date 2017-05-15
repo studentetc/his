@@ -66,3 +66,10 @@
 ### Test Preparation
 
 1. [Introduction to RIS/PACS](http://svel.to/nf8)
+
+---
+
+### Malware
+
+1. [MAlware](http://svel.to/nfp) / [Test Malware](http://svel.to/nfq)
+3. [AJAX](http://svel.to/nfr)
